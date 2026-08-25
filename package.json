@@ -1,0 +1,23 @@
+{
+  "name": "automation-practice",
+  "version": "1.0.0",
+  "description": "Automation Practice",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangrampatil1834/Automation-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sangrampatil1834/Automation-Practice/issues"
+  },
+  "homepage": "https://github.com/sangrampatil1834/Automation-Practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.3.0"
+  }
+}
